@@ -1,0 +1,78 @@
+<FORM15CB:FORM15CB xmlns:Form="http://incometaxindiaefiling.gov.in/common" xmlns:FORM15CB="http://incometaxindiaefiling.gov.in/FORM15CAB"><Form:CreationInfo><Form:SWVersionNo>1.0</Form:SWVersionNo>
+    <Form:SWCreatedBy>DIT-EFILING-JAVA</Form:SWCreatedBy>
+    <Form:XMLCreatedBy>DIT-EFILING-JAVA</Form:XMLCreatedBy>
+    <Form:XMLCreationDate>2025-10-27</Form:XMLCreationDate>
+    <Form:IntermediaryCity>Delhi</Form:IntermediaryCity>
+  </Form:CreationInfo>
+  <Form:Form_Details><Form:FormName>FORM15CB</Form:FormName>
+    <Form:Description>FORM15CB</Form:Description>
+    <Form:AssessmentYear>2017</Form:AssessmentYear>
+    <Form:SchemaVer>Ver1.1</Form:SchemaVer>
+    <Form:FormVer>1</Form:FormVer>
+  </Form:Form_Details>
+  <FORM15CB:RemitterDetails><FORM15CB:IorWe>02</FORM15CB:IorWe>
+    <FORM15CB:RemitterHonorific>03</FORM15CB:RemitterHonorific>
+    <FORM15CB:NameRemitter>MAHARASHTRA SEAMLESS LIMITED</FORM15CB:NameRemitter>
+    <FORM15CB:PAN>AAACM0511B</FORM15CB:PAN>
+    <FORM15CB:BeneficiaryHonorific>03</FORM15CB:BeneficiaryHonorific>
+  </FORM15CB:RemitterDetails>
+  <FORM15CB:RemitteeDetls><FORM15CB:NameRemittee>STATE STREET GLOBAL SMALL CAP EQUITY EX-U.S. INDEX NON-LENDING SERIES FUND</FORM15CB:NameRemittee>
+    <FORM15CB:RemitteeAddrs><FORM15CB:PremisesBuildingVillage>BLDG 3 NESCO IT PARK NESCO COMPLEX</FORM15CB:PremisesBuildingVillage>
+      <FORM15CB:TownCityDistrict>Others</FORM15CB:TownCityDistrict>
+      <FORM15CB:FlatDoorBuilding>HSBC SECURITIES SERVICES 11TH FLOOR</FORM15CB:FlatDoorBuilding>
+      <FORM15CB:AreaLocality>MUMBAI</FORM15CB:AreaLocality>
+      <FORM15CB:ZipCode>111111</FORM15CB:ZipCode>
+      <Form:State>Others</Form:State>
+      <FORM15CB:RoadStreet>W E HIGHWAY GOREGAON EAST</FORM15CB:RoadStreet>
+      <FORM15CB:Country>9999</FORM15CB:Country>
+    </FORM15CB:RemitteeAddrs>
+  </FORM15CB:RemitteeDetls>
+  <FORM15CB:RemittanceDetails><FORM15CB:CountryRemMadeSecb>91</FORM15CB:CountryRemMadeSecb>
+    <FORM15CB:CurrencySecbCode>70</FORM15CB:CurrencySecbCode>
+    <FORM15CB:AmtPayForgnRem>1406280</FORM15CB:AmtPayForgnRem>
+    <FORM15CB:AmtPayIndRem>1406280</FORM15CB:AmtPayIndRem>
+    <FORM15CB:NameBankCode>51</FORM15CB:NameBankCode>
+    <FORM15CB:BranchName>GURGAON</FORM15CB:BranchName>
+    <FORM15CB:BsrCode>1510053</FORM15CB:BsrCode>
+    <FORM15CB:PropDateRem>2025-10-29</FORM15CB:PropDateRem>
+    <FORM15CB:NatureRemCategory>16.16</FORM15CB:NatureRemCategory>
+    <FORM15CB:RevPurCategory>RB-14.1</FORM15CB:RevPurCategory>
+    <FORM15CB:RevPurCode>RB-14.1-S1412</FORM15CB:RevPurCode>
+    <FORM15CB:TaxPayGrossSecb>N</FORM15CB:TaxPayGrossSecb>
+  </FORM15CB:RemittanceDetails>
+  <FORM15CB:ItActDetails><FORM15CB:RemittanceCharIndia>Y</FORM15CB:RemittanceCharIndia>
+    <FORM15CB:SecRemCovered>115AD/195/196D</FORM15CB:SecRemCovered>
+    <FORM15CB:AmtIncChrgIt>1406280</FORM15CB:AmtIncChrgIt>
+    <FORM15CB:TaxLiablIt>292506</FORM15CB:TaxLiablIt>
+    <FORM15CB:BasisDeterTax>20.80</FORM15CB:BasisDeterTax>
+  </FORM15CB:ItActDetails>
+  <FORM15CB:DTAADetails><FORM15CB:TaxResidCert>N</FORM15CB:TaxResidCert>
+    <FORM15CB:RemForRoyFlg>N</FORM15CB:RemForRoyFlg>
+    <FORM15CB:RemAcctBusIncFlg>N</FORM15CB:RemAcctBusIncFlg>
+    <FORM15CB:RemOnCapGainFlg>N</FORM15CB:RemOnCapGainFlg>
+    <FORM15CB:OtherRemDtaa>N</FORM15CB:OtherRemDtaa>
+    <FORM15CB:TaxIndDtaaFlg>N</FORM15CB:TaxIndDtaaFlg>
+    <FORM15CB:RelArtDetlDDtaa>NA</FORM15CB:RelArtDetlDDtaa>
+  </FORM15CB:DTAADetails>
+  <FORM15CB:TDSDetails><FORM15CB:AmtPayForgnTds>292506</FORM15CB:AmtPayForgnTds>
+    <FORM15CB:AmtPayIndianTds>292506</FORM15CB:AmtPayIndianTds>
+    <FORM15CB:RateTdsSecbFlg>1</FORM15CB:RateTdsSecbFlg>
+    <FORM15CB:RateTdsSecB>20.8</FORM15CB:RateTdsSecB>
+    <FORM15CB:ActlAmtTdsForgn>1113774</FORM15CB:ActlAmtTdsForgn>
+    <FORM15CB:DednDateTds>2025-10-04</FORM15CB:DednDateTds>
+  </FORM15CB:TDSDetails>
+  <FORM15CB:AcctntDetls><FORM15CB:NameAcctnt>VAIBHAV GOEL</FORM15CB:NameAcctnt>
+    <FORM15CB:NameFirmAcctnt>R D V &amp; ASSOCIATES</FORM15CB:NameFirmAcctnt>
+    <FORM15CB:AcctntAddrs><FORM15CB:PremisesBuildingVillage>B-08, NETAJI SUBHASH PLACE</FORM15CB:PremisesBuildingVillage>
+      <FORM15CB:TownCityDistrict>DELHI</FORM15CB:TownCityDistrict>
+      <FORM15CB:FlatDoorBuilding>709-710, GDITL TOWER</FORM15CB:FlatDoorBuilding>
+      <FORM15CB:AreaLocality>DELHI</FORM15CB:AreaLocality>
+      <FORM15CB:Pincode>110034</FORM15CB:Pincode>
+      <Form:State>09</Form:State>
+      <FORM15CB:RoadStreet>PITAMPURA</FORM15CB:RoadStreet>
+      <FORM15CB:Country>91</FORM15CB:Country>
+    </FORM15CB:AcctntAddrs>
+    <FORM15CB:MembershipNumber>547918</FORM15CB:MembershipNumber>
+    <FORM15CB:RegNoAcctnt>0006128C</FORM15CB:RegNoAcctnt>
+  </FORM15CB:AcctntDetls>
+</FORM15CB:FORM15CB>
