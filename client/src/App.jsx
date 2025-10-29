@@ -4,24 +4,24 @@ import { motion } from "framer-motion";
 
 export default function App() {
   return (
-    <div className="min-h-screen flex flex-col items-center justify-center bg-gradient-to-b from-blue-50 to-blue-100 text-gray-800">
-      <motion.div
-        initial={{ opacity: 0, y: -40 }}
+    <div className="min-h-screen flex flex-col items-center justify-center bg-gradient-to-br from-[#e8f0ff] via-[#f8fbff] to-[#e1ebff] text-gray-800">
+      {/* Animated Company Header */}
+      <motion.h1
+        initial={{ opacity: 0, y: -20 }}
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.6 }}
-        className="text-center mb-10"
+        className="text-4xl md:text-5xl font-extrabold text-[#1e3a8a] mb-2"
       >
-        <h1 className="text-4xl md:text-5xl font-bold text-blue-700">
-          Flookup Capital Advisors
-        </h1>
-        <p className="text-lg text-gray-600 mt-2">
-          XML Cleaner Tool – Upload your XML folder and get clean, validated files
-        </p>
-      </motion.div>
+        Flookup Capital Advisors
+      </motion.h1>
+
+      <p className="text-gray-600 mb-10 text-sm md:text-base text-center max-w-md">
+        Intelligent XML Error Correction & Validation Tool
+      </p>
 
       <UploadSection />
 
-      <footer className="mt-16 text-sm text-gray-500">
+      <footer className="mt-12 text-sm text-gray-500">
         © {new Date().getFullYear()} Flookup Capital Advisors. All rights reserved.
       </footer>
     </div>
